@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-![image](https://github.com/k200155/calculator/assets/145255946/bb9096cf-67ad-4751-99b0-1a30883c6832)
+[![Build Status](https://dev.azure.com/k200155/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status%2Fk200155.calculator?branchName=master)](https://dev.azure.com/k200155/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=1&branchName=master)
 
 
 The project contains a simple node.js application that exposes REST APIs
